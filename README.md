@@ -1,2 +1,3 @@
 # repositorio-henry
-curso pre-henry
+# SERGIO MERCCADO ARIAS
+Este proyecto es una prueba de como crear repositorio
